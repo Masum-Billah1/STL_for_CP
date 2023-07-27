@@ -14,5 +14,5 @@ step2: calculte the size of the set<br>
 &emsp;index: 3 2 4 5 1<br><br>
 <b>Solution procedure:</b><br>
 &emsp;Step1: create a vectored pair whose 1st element = array element and 2nd element = index.<br>
-&emsp;Step2: short the vector.-> only first element of pair will be shorted.
+&emsp;Step2: short the vector.-> only first element of pair will be shorted.<br>
 <b>Explanation of solution:</b> The problem may be solved using bubble sort. In case of this solution, the time complexity is o(n<sup>2</sup>sup). if you solve the problem using pair, the time complexity will be o(nlogn) which is more optimized than first solution.
