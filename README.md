@@ -5,10 +5,10 @@ step1: split the character using a temporary string and insert into predeclared 
 step2: calculte the size of the set<br>
 <b>Reference problem: </b>https://codeforces.com/contest/1833/problem/A
 <h3>Pair</h3>
-<b>Short with idndex:</b> first array contains particular value and second array contains the index of the first array. My task is to short the first array with respect to index.<br><br>
+<b>Short with idndex:</b> first array contains particular value and second array contains the index of the first array. My task is to short the first array with respect to index.<br>
 <b>Sample input:</b><br>
 &emsp;array:5 2 1 3 4<br>
-&emsp;index:1 2 3 4 5<br><br>
+&emsp;index:1 2 3 4 5<br>
 <b>Sample output:</b><br>
 &emsp;array:1 2 3 4 5<br>
-&emsp;index:3 2 4 5 1<br><br>
+&emsp;index:3 2 4 5 1<br>
