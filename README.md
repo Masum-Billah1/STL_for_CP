@@ -4,3 +4,5 @@
 step1: split the character using a temporary string and insert into predeclared set<br>
 step2: calculte the size of the set<br>
 <b>Reference problem: </b>https://codeforces.com/contest/1833/problem/A
+<h3>Map</h3>
+<b>Short with idndex:</b> first array contains particular value and second array contains int index of the first array. My task is to short the first array with respect to index. 
